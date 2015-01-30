@@ -1,7 +1,7 @@
 pkgname=zim
 pkgver=0.62
 pkgrel=1
-pkgdesc="A WYSIWYG text editor that aims at bringing the concept of a wiki to the desktop."
+pkgdesc="A WYSIWYG text editor that aims at bringing the concept of a wiki to the desktop"
 arch=('x86_64')
 license=('GPL' 'PerlArtistic')
 url="http://zim-wiki.org/"
