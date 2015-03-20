@@ -10,12 +10,7 @@ optdepends=('bzr: Version Control plugin'
             'git: Version Control plugin'
             'mercurial: Version Control plugin'
             'gnuplot: Insert Gnuplot plugin'
-            'ditaa: Insert Ditaa plugin'
-            'graphviz: Insert Diagram & Link Map plugins'
-            'python2-gtkspell: Spell Checker plugin'
             'r: Insert GNU R Plot plugin'
-            'scrot: Insert Screenshot plugin'
-            'libzeitgeist: Log events with Zeitgeist plugin'
             'lilypond: Insert Score plugin'
             'texlive-bin: Insert Equation plugin')
 install=zim.install
