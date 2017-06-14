@@ -1,5 +1,5 @@
 pkgname=zim
-pkgver=0.65
+pkgver=0.66
 pkgrel=1
 pkgdesc="A WYSIWYG text editor that aims at bringing the concept of a wiki to the desktop"
 arch=('x86_64')
@@ -16,7 +16,7 @@ optdepends=('bzr: Version Control plugin'
             'scrot: insert screen capture')
 install=zim.install
 source=(http://www.zim-wiki.org/downloads/${pkgname}-${pkgver}.tar.gz)
-sha512sums=('dee652087d3d986b80353e9087abe363392354f40db11f8819d0b3f3c6f133c08c66c651a92ed77c1656f1135998ac02622eca08ac2e28c8fb3149a724a0f7fb')
+sha512sums=('9693dba8ee6ad915a85ca999674350b278043559ba4adf93c03c8815211ecab451a6e2dceaf62ea7048609eb86f19485f2dd77dbaaf6f2d81f97f6450bf25ca9')
 
 build() {
     cd ${srcdir}/${pkgname}-${pkgver}
